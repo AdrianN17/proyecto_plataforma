@@ -4,15 +4,18 @@ using UnityEngine;
 
 public class Visible : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    void OnBecameVisible()
     {
-        
+        enabled = true;
     }
 
-    // Update is called once per frame
-    void Update()
+    void OnBecameInvisible()
     {
-        
+        enabled = false;
+    }
+
+    public void Disable()
+    {
+        enabled = false;
     }
 }
