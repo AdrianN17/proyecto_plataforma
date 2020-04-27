@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 8766809984073205632}
   - component: {fileID: 8766809984073205633}
   - component: {fileID: 7747298367619437608}
+  - component: {fileID: 9157918668779961458}
   m_Layer: 0
   m_Name: Obstaculo_Giratorio
   m_TagString: Obstaculo
@@ -125,3 +126,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidad: 30
+--- !u!114 &9157918668779961458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8766809984073205634}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f174c5a70c604184b976b3568fabc1af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

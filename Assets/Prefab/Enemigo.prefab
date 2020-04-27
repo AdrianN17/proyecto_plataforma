@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 7409845041883404831}
   - component: {fileID: 2338066439742392891}
   - component: {fileID: 8159212317830988084}
+  - component: {fileID: 3515404823581847649}
   m_Layer: 0
   m_Name: Enemigo
   m_TagString: Enemigo
@@ -121,6 +122,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hp: 15
   max_hp: 0
+--- !u!114 &3515404823581847649
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7409845041883404802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f174c5a70c604184b976b3568fabc1af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &8847162856726784957
 GameObject:
   m_ObjectHideFlags: 0

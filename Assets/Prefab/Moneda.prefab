@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 1694384423567616950}
   - component: {fileID: 1694384423567616951}
   - component: {fileID: 7683065259732662511}
+  - component: {fileID: 6134558404203323517}
   m_Layer: 0
   m_Name: Moneda
   m_TagString: Moneda
@@ -114,3 +115,15 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &6134558404203323517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1694384423567616841}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f174c5a70c604184b976b3568fabc1af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

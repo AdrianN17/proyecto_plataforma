@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 3528939087257534163}
   - component: {fileID: 3528939087257534162}
   - component: {fileID: 5880592996521006630}
+  - component: {fileID: 7244279569928079051}
   m_Layer: 0
   m_Name: Estrella
   m_TagString: Estrella
@@ -882,3 +883,15 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &7244279569928079051
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3528939087257534157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f174c5a70c604184b976b3568fabc1af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
